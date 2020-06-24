@@ -1,0 +1,25 @@
+.img-banner{
+    width: 100%;
+    min-height: 300px;
+    max-height: 350px;
+}
+
+.box-info{
+    background-color: #1FA9F0;
+    color: #fff;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+
+}
+
+
+.titulo, .visualiacoes{
+    color: #1FA9F0;
+}
+
+.btn-cadastro:hover {
+    background-color: #1FA9F0;
+    color: #fff;
+}
